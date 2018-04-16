@@ -1,3 +1,4 @@
 <?php 
-echo "Hello Worl";
+echo "Hello World";
 ?>
+<h2>Php Pages</h2>
